@@ -1,4 +1,4 @@
-const axios = require("axios");
+!cmd install prefix.js const axios = require("axios");
 const fs = require("fs");
 const path = require("path");
 const utils = global.utils;
